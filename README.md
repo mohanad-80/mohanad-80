@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mohanad-80
+- 👋 Hi, I’m mohanad
 - 👀 I’m interested in movies and programming
 - 🌱 I’m currently learning CS50
 - 💞️ I’m looking to collaborate on CS50
