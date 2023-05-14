@@ -1,7 +1,6 @@
 - 👋 Hi, I’m mohanad
 - 👀 I’m interested in movies and programming
-- 🌱 I’m currently learning CS50
-- 💞️ I’m looking to collaborate on CS50
+- 🌱 I’m currently learning C++
 - 📫 you can reach me via mail (mhndahmd031@gmail.com)
 
 <!---
