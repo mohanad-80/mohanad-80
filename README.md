@@ -1,6 +1,6 @@
 - 👋 Hi, I’m mohanad
 - 👀 I’m interested in movies and programming
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning WebDev
 - 📫 you can reach me via mail (mhndahmd031@gmail.com)
 
 <!---
